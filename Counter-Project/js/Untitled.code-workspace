@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "/Users/fadi/Programming/ruby"
+		},
+		{
+			"path": "/Users/fadi/Counter-Project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Counter-Project"
+	}
+}
